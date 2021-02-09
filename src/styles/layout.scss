@@ -1,0 +1,13 @@
+.fixed-header{
+    margin-top: 25px;
+    width: 100%;
+    margin-bottom: 20px;
+    // padding-bottom: 20px;
+    display: flow-root;
+    .l{
+        float: left;
+    }
+    .r{
+        float: right;
+    }
+}
